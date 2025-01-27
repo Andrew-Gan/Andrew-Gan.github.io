@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in ECE, Purdue University, 2027
+* M.S. in ECE, Purdue University, 2024
+* B.S. in CompE, Purdue University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023-now: Graduate Research Assistant
+  * Purdue University
+  * Duties included: Research on topics, make publications and network in the field.
+  * Supervisor: Professor Zahra Ghodsi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021: Software Developer in Test Automation
+  * Amount, Inc
+  * Duties includes: Write software to automate FE and API testing against loan application websites.
+  * Supervisor: Raj Balaebail
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Undergraduate Research Assistant
+  * Purdue University
+  * Duties included: Work on a paper published by a PhD under my supervisor.
+  * Supervisor: Professor Milind Kulkarni
   
 Skills
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer at Lakeview Food Pantry, Chicago
