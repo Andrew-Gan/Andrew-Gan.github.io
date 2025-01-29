@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in ECE, Purdue University, 2027
+* Ph.D in ECE, Purdue University, 2027 (expected)
 * M.S. in ECE, Purdue University, 2024
 * B.S. in CompE, Purdue University, 2020
 
 Work experience
 ======
-* Fall 2023-now: Graduate Research Assistant
+* Fall 2023 -: Graduate Research Assistant
   * Purdue University
   * Duties included: Research on topics, make publications and network in the field.
   * Supervisor: Professor Zahra Ghodsi
 
-* Spring 2021: Software Developer in Test Automation
+* May 2021 - July 2021: Software Developer in Test Automation
   * Amount, Inc
   * Duties includes: Write software to automate FE and API testing against loan application websites.
   * Supervisor: Raj Balaebail
-
-* Spring 2020: Undergraduate Research Assistant
-  * Purdue University
-  * Duties included: Work on a paper published by a PhD under my supervisor.
-  * Supervisor: Professor Milind Kulkarni
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* CUDA development
+* Skiing
+* English, Mandarin, Malay, learning German
 
 Publications
 ======
@@ -61,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Volunteer at Lakeview Food Pantry, Chicago
+* Volunteered at Lakeview Food Pantry, Chicago

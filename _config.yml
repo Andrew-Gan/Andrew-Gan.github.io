@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Andrew's personal website"
+title                    : "Andrew's research profile"
 title_separator          : "-"
 name                     : &name "Andrew Gan"
 description              : &description "PhD candidate"
@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Andrew Gan"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at the department of ECE at Purdue University. Research areas span 
-                      GPU architecture, secure multi-party computation and machine learning."
+  bio              : "PhD candidate in the department of ECE. Research spans GPU architecture, multi-party computation and machine learning."
   location         : "Lafayette, IN"
   employer         : "Purdue University"
   uri              : "https://engineering.purdue.edu/ECE"
