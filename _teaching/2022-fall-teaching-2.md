@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "West Lafaytte, US"
 ---
 
-GTA for a course on object-oriented programming in C++. Helped with redesigning the course.
+GTA for a course on object-oriented programming in C++ and later for another course on microprocessor systems and inferfacing.
 
 Heading 1
 ======
